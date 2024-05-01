@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "dungeon",
+			"Path": "..\\Source\\dungeon.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "dungeonEditor",
+			"Path": "..\\Source\\dungeonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\yumi\\CLEAN\\UnrealEngine\\dungeon\\Source\\dungeon\\dungeon.Build.cs",
+		"E:\\yumi\\CLEAN\\UnrealEngine\\dungeon\\Source\\dungeon.Target.cs",
+		"E:\\yumi\\CLEAN\\UnrealEngine\\dungeon\\Source\\dungeonEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
